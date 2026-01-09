@@ -1,0 +1,8 @@
+{
+  "name": "Edu Booster BD",
+  "description": "A high-end, AI-powered study companion designed for students to track study sessions, manage subjects, and leverage Gemini AI for learning insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
